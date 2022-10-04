@@ -4,4 +4,4 @@ a=int(input())
 b=int(input())
 c=int(input())
 print('Average of three numbers = ',average(a,b,c))
-here
+heree
